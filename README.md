@@ -1,3 +1,3 @@
-## THE “BOOK TRADING” EXAMPLE (Jade)
+## THE “WUMPUS WORLD” EXAMPLE (Jade)
 
-https://jade-project.gitlab.io/page/guidesandtutorials/
+https://github.com/aimacode
