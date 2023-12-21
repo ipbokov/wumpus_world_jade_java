@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Jade",
+            "request": "launch",
+            "mainClass": "jade.Boot",
+            "args": "-gui -agents nav:NavigatorAgent;spel:SpeleologistAgent;env:EnvironmentAgent",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/lib/aima-core.jar",
+                "${workspaceFolder}/lib/jade-4.5.3.jar"
+            ]
+        },
+    ]
+}
